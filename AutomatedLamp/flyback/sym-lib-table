@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UCC2813-0")(type "KiCad")(uri "C:/Users/jachanya/Downloads/ul_UCC2813D-0/KiCADv6/2025-04-24_06-59-27.kicad_sym")(options "")(descr ""))
+  (lib (name "transformer")(type "KiCad")(uri "${KIPRJMOD}/transformer.kicad_sym")(options "")(descr ""))
+)
